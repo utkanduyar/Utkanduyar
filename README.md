@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Utkandeveloper
+- I'm dealing with python, c#, SQL languages
+- My field of interest in software is artificial intelligence systems, types of smart systems, desktop applications.
+- I am 19 years old and I am a second year computer programming student at Balıkesir University.
